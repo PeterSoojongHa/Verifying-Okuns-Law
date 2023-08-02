@@ -1,0 +1,9 @@
+REQUIRED MODULES - ONLY DOWNLOAD IF RUNNING THE script.py FILE
+
+To download each module, please go to run the command prompt as an administrator and enter the commands one at a time.
+(The commands are within the parentheses, just like this sentence.)
+
+NumPy: (pip install numpy)
+Pandas: (pip install pandas)
+SciPy: (pip install scipy)
+MatPlotLib: (pip install matplotlib)
